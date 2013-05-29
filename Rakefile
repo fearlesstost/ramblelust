@@ -4,12 +4,12 @@ require "stringex"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_user       = "user@domain.com"
+ssh_user       = "estratford@web23.webfaction.com"
 ssh_port       = "22"
-document_root  = "~/website.com/"
+document_root  = "~/webapps/ramblelust"
 rsync_delete   = false
 rsync_args     = ""  # Any extra arguments to pass to rsync
-deploy_default = "push"
+deploy_default = "rsync"
 
 # This will be configured for you when you run config_deploy
 deploy_branch  = "master"
@@ -218,9 +218,6 @@ task :deploy do
 
   Rake::Task[:copydot].invoke(source_dir, public_dir)
   Rake::Task["#{deploy_default}"].execute
-
-  # send it out to webfaction
-  system 'ssh estratford@web23.webfaction.com "cd webapps/ramblelust; git pull"'
 end
 
 desc "Generate website and deploy"
