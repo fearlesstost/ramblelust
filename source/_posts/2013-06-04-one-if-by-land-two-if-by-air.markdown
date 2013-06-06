@@ -30,3 +30,10 @@ Then we boarded the Kuranda scenic railway back down, and learned about how it w
 We signed up to get dive medicals done (which would officially say that we're healthy enough to scuba dive) tommorrow, and we finally went down to the Lagoon (it's like a fake beach next to the real beach because the real beach is basically a swamp with crocodiles) for a swim.  We grabbed some of the local brew by a company called Blue Sky and made delicious salmon with paw paw sweet corn salsa.
 
 And so ends another day.  Tomorrow, the reef at last!!!!
+
+Also, we have finally started putting photos up <a href="http://picasaweb.google.com/biketotheearth">on Picasa</a>.
+
+Learn Aussie:
+
+ * right => left
+ * sharp cheddar => tasty cheese
