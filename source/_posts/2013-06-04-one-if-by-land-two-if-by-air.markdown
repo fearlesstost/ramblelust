@@ -37,3 +37,4 @@ Learn Aussie:
 
  * right => left
  * sharp cheddar => tasty cheese
+ * Australia => Oz
