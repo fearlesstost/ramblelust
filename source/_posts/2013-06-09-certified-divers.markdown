@@ -13,8 +13,6 @@ reef.
 
 ## First Dive (Training Dive 3)
 
-TODO: image
-
 Wakeup and first dive briefing is at 6:45, but we wake up before that when they
 start the engines to move around to our first dive location. If you've never
 slept on a boat, the rocking motion is nice and relaxing (unless you're prone to
@@ -40,8 +38,6 @@ couple of giant clams, a pink anemonefish, and a nudibranch. Then it's back up
 for the safety stop, surface, and in for breakfast.
 
 ## Second Dive (Training Dive 4)
-
-TODO: image
 
 Last training dive! To avoid reverse profiling (going deeper on subsequent
 dives) we limit this one to about 15m. Some more skills:
@@ -75,8 +71,6 @@ cheers: this is indeed the last training dive, and we get the cards to prove it:
 pick up when we get back to Berkeley.)
 
 ## Fun Dive
-
-TODO: image
 
 First dive as certified divers! We get to attend the dive briefing upstairs
 with everyone else. Since it's our third dive of the day, we stick to the
@@ -114,8 +108,6 @@ During our 45 minutes underwater, we spot quite a bit of wildlife:
 It's pretty amazing what you can see underwater in such a small area!
 
 ## Night Dive
-
-TODO: image
 
 To round out the day, the instructors take us on a night dive around the same
 area. There are a few special considerations for night diving. For starters, you
