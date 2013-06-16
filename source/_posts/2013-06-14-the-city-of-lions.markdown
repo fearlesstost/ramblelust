@@ -6,7 +6,11 @@ comments: true
 categories: [singapore,food,walking,religion]
 ---
 
-
+<em>
+Dripping with sunshine<br/>
+Parasol keeps light at bay<br/>
+Long sleeves fight dengue<br/>
+</em>
 
 Singapore no longer really lives up to its namesake, but it's been wonderful to us today all the same.  We began the day in our hostel, waking up at a reasonable hour in the air-conditioned dorm room, then stepped out into the oven to begin the day.  The high today was 34C (93.2F) with humidity around 80%.  Due to a dengue fever outbreak currently in Singapore, during the day we have to wear our mosquito gear (at night the dengue mosquitoes aren't active).  That means long-sleeved shirts and jeans, all day.
 
@@ -19,6 +23,8 @@ Some basic background about Singapore:
 * it is second only to Morocco as the most densely populated country in the world
 * drug trafficking is illegal and punished by hanging, no questions
 * other things (unusual sex, etc.) are punished by caning
+
+As a first order of business, we donned our mosquito-repelling, permethrin-soaked shirts for the first time.  There's been an outbreak of dengue fever in Singapore this year, with 9000 cases and one death reported.  So we keep the little buggers at bay with our full sleeves and jeans, which unfortunately slowly melts us in the heat.  We also grabbed a SIM card from Singtel (the only cell company) to stay in contact with our local friends, and they gifted us a free parasol with the card.  Strange.
 
 Our first plan was to go to Little India for a stroll recommended by Lonely Planet Singapore.  We elected to walk rather than take the MRT, which led us through a fascinating supermarket (we picked up some salty snacks and water for the day) that carried things like bamboo whisky and durian popsicles.  A few blocks past that, we were distracted by a not-exactly-sweet cakes shop, where we picked up a green bean and [pandan](http://en.wikipedia.org/wiki/Pandanus_amaryllifolius) cake to share.
 
