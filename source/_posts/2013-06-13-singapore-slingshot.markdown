@@ -22,7 +22,7 @@ service is awesome. Leg room is a touch better than on those cramped North
 American flights, and the food service looks great: chicken biryani, chocolate
 mousse, mango juice, cheese and crackers...
 
-...but instead we get an all-fruit meal. Why? I have no idea, but they see
+...but instead we get an all-fruit meal. Why? I have no idea, but they seem
 to think we requested this. It really is all-fruit, excepting a small salad and
 bun. I don't even know why this is an option, but we convince them to give us
 most of the regular meal. Properly fed, we settle in to watch The Living
