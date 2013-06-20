@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "oy zoy oy"
-date: 2013-06-20 17:57
+date: 2013-06-19 22:00
 comments: true
 categories: [vietnam, history]
 ---
