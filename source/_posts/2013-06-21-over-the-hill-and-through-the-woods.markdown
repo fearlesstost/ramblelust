@@ -103,3 +103,11 @@ Personal hygiene accomplished, we climb upstairs to watch a movie before
 bed. We're headed for the bat pagoda in Soc Trang tomorrow to complete
 [a quest](LINK) given to us through [Expedition](LINK), which promises
 adventure!
+
+## Learn Vietnamese
+
+- *Tôi chỉ trả tiền phạt thôi được không?* Can I just pay a fine now? The
+  Vietnamese police reportedly will stop foreign drivers and claim that an
+  infraction has been committed. We haven't run into this yet, and hopefully
+  we never will; Western culture hasn't properly trained us for
+  institutionalized bribery.

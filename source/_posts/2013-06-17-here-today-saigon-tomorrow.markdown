@@ -93,3 +93,11 @@ than toilet paper for your, er, hygienic needs.
 
 Long day! We receive a map from the innkeeper along with some suggestions for
 a walking tour the next day, but for now it's off to sleep...
+
+## Learn Vietnamese
+
+- *Xin chào:* Hello.
+- *Cảm ơn:* Thank you.
+- *Không:* No. Also used as the number zero, and as a general negation
+  (not, none, no one, etc.) It also seems to be used in a positive sense, but
+  I'm not sure about that one.
