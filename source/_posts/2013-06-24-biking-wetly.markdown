@@ -3,7 +3,7 @@ layout: post
 title: "biking wetly"
 date: 2013-06-24 08:28
 comments: true
-categories: [scooter, weather, mountains]
+categories: [vietnam, scooter, weather, mountains]
 ---
 
 <em>Rain in great buckets<br/>
