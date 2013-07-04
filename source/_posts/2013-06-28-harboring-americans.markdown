@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "harboring americans"
-date: 2013-06-02 08:30
+date: 2013-06-28 22:00
 comments: true
 categories: [vietnam]
 ---
