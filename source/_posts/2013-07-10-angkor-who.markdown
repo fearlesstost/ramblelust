@@ -6,7 +6,9 @@ comments: true
 categories: [cambodia, temples, angkor wat]
 ---
 
-
+<em>Worn ancient magic<br/>
+Carved from stone by hands of slaves<br/>
+Here for those who seek</em>
 
 We curiously ate the "Western-style" breakfasts in our hotel, then searched for a way to rent bikes for the tour of Angkor Wat we wanted to do.  The receptionist at our hotel insisted that we didn't want to bike, that it would be much better to get a tuk tuk to take us around.  Well, we wanted to bike, so we searched and found a hostel that rents bikes, and then moved our stuff there.
 
