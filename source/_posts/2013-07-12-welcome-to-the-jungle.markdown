@@ -6,6 +6,9 @@ comments: true
 categories: [cambodia, temples, adventure]
 ---
 
+<em>Sun drifts on the breeze,<br/>
+Butterflies, vines, weave around,<br/>
+Ancient stone secrets.</em>
 
 After yesterday's early start, waking up at 6:45 seemed positively lazy.  We slothed about and got dressed, grabbed breakfast, then set off with our hired private tourguide and driver (!?).
 
@@ -23,4 +26,4 @@ We climbed across roofs, scrambled between barely-supported stones, and snuck th
 
 Finally, almost back to Siem Reap, we paused at the Roulos group, which contains the oldest temples in the region, built around 890.  They are actually in terrific shape, and they show off many of the building techniques that are prevalent in temples from the area, like carved brick and plaster-covered brick (how that plaster has survived 1100 years, I will never know), as well as building out of volcanic rock.  Our guide explained that Cambodia is basically a giant volcano, with the central lake and flat inland areas as its crater, ringed by a mountain range.  It seems hard to believe (the volcano is now, obviously extinct), but it does certainly explain where all this pumice comes from.
 
-On the way home, we listened to tales of immortal demon heads and seas of milk.  Back at our hostel, we sleepily at some dinner and settled in to watch movies until bedtime.  Clambering around in 38 degree heat is tiring at best, and we're tired.
+On the way home, we listened to tales of immortal demon heads and seas of milk.  Before tucking in for the nigh, we headed out once more for some classy drinks at the Foreign Correspondents Club, which we simply couldn't pass up.  Back at our hostel, we sleepily ate some dinner and settled in to watch movies until bedtime.  Clambering around in 38 degree heat is tiring at best, and we're tired.
