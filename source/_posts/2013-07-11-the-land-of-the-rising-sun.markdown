@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Land of the Rising Sun"
-date: 2013-07-13 15:26
+date: 2013-07-11 15:26
 comments: true
 categories: [angkor wat, cambodia]
 ---
