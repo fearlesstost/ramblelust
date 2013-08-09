@@ -3,7 +3,7 @@ layout: post
 title: "under da sea"
 date: 2013-08-06 22:00
 comments: true
-categories: [korea, jeju, olle]
+categories: [korea, jeju]
 ---
 
 First full relaxation day in Seogwipo, and we are **exhausted**. We lumber
