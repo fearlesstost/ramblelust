@@ -3,7 +3,7 @@ layout: post
 title: "216 prostrations"
 date: 2013-08-18 22:00
 comments: true
-categories: [korea, seoul]
+categories: [korea, seoul, philippines]
 ---
 
 108 each, to be exact, which we performed last night before our evening meditation.
